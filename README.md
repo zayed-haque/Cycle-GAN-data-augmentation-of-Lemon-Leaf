@@ -17,3 +17,4 @@ The generator model is defined in the `generator_fn` function, which creates a C
 
 The discriminator model is defined in the `discriminator_fn` function, which creates a discriminator network based on the MobileNetV2 architecture. The discriminator takes an input image and predicts whether it belongs to the real or generated domain.
 
+![output](https://github.com/zayed-haque/Cycle-GAN-data-augmentation-of-Lemon-Leaf/assets/48508566/3c5e537a-8e95-4399-ab2d-84e0586e9f89)
